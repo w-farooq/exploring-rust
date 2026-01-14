@@ -1,6 +1,6 @@
 # Exploring Rust
 
-Learning Rust through hands-on projects and exercises.
+Exploring/Learning Rust through hands-on projects and exercises following a Udemy course.
 
 ## Sections
 
