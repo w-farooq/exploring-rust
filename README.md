@@ -1,7 +1,9 @@
 # Exploring Rust
 
-Learning Rust fundamentals through hands-on projects and exercises.
+Learning Rust through hands-on projects and exercises.
 
-## Projects
-- `hello_world/` - First Rust program
-- `about_me/` - Basic Rust syntax exploration
+## Sections
+
+- [Section 1: Hello World & Basics](./section-1-basics/)
+- [Section 2: Coming soon...](#)
+- 
